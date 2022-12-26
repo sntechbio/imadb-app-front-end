@@ -1,0 +1,10 @@
+#form-div {
+    width: 500px;
+    display: flex;
+    align-items: center;
+    top: 50%;
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
