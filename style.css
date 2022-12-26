@@ -8,3 +8,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+#heatmap {
+    margin: 60px 1px 60px;
+}
